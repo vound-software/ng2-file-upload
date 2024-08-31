@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/valor-software/ng2-file-upload#readme",
   "devDependencies": {
-    "@angular-devkit/build-angular": "17.0.3",
+    "@angular-devkit/build-angular": "17.3.9",
     "@angular-devkit/core": "17.0.3",
     "@angular-devkit/schematics": "17.0.3",
     "@angular-eslint/eslint-plugin": "17.0.1",
